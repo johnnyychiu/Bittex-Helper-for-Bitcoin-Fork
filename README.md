@@ -1,4 +1,4 @@
-# Bittex-Helper-for-Bitcoin-Fork
+# Bittrex-Helper-for-Bitcoin-Fork
 Bitcoin will be Hard Forked After UAHF activates at 12:20 1st August 2017 (UTC time) / 8:20pm (Hong Kong Time)<br>
 This program will help you sell Bitcoin immediately after Forking.
 
